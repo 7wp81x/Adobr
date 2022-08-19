@@ -1,5 +1,5 @@
 # Adobr
-A python script that capable of brute forcing Peso Wifi (Ado softwares)
+A python script that capable of brute forcing Piso Wifi (Ado softwares)
 #
 <img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">
 
